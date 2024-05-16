@@ -16,5 +16,11 @@ public class bread extends Actor
     {
         move(5);
         turn(1);
+        sleep(69); 
+
     }
+}
+
+public void sleep(){
+    //sleeps like a dog
 }
